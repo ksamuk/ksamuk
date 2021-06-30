@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm an evolutionary biologist who studies the natural world using genomics. My current primary research focus is understanding the evolution of recombination rate. As of July 1st, 2021, I will be starting as an Assistant Professor at the The University of California, Riverside. 
+I'm an evolutionary biologist who studies the natural world using genomics. My current primary research focus is understanding the evolution of recombination rate. I am currently an Assistant Professor in the Department of Evolution, Ecology, and Organismal Biology at the The University of California, Riverside. 
 
-For more info on my research program, check out my website at http://ksamuk.github.io.
+For more info on my research program, visit my lab website https://www.samuklab.com.
